@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Movie
+comment1.params=title\ year\ rating\ cost
+comment1.target=Movie(java.lang.String,\ int,\ int,\ double)
+comment2.params=mve
+comment2.target=int\ compareTo(java.lang.Object)
+comment3.params=mve
+comment3.target=double\ compRating(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
